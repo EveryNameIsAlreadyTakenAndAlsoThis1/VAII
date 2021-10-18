@@ -9,3 +9,27 @@
     border-bottom: 0;
     padding:0;
 }
+.divider{
+    margin:3rem;
+}
+body{
+    background-color: black!important;
+}
+.row p{
+    color: white;
+}
+ul.dropdown-menu.show{
+    background-color: black!important;
+
+}
+a.dropdown-item{
+    color: white!important;
+}
+
+.dropdown-item:focus, .dropdown-item:hover {
+    background-color: #0d6efd!important;
+}
+
+img.navbar-brand{
+    width: 1.8rem;
+}
