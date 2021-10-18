@@ -18,11 +18,11 @@ body{
 .row p{
     color: white;
 }
-ul.dropdown-menu.show{
+.dropdown-menu.show{
     background-color: black!important;
 
 }
-a.dropdown-item{
+.dropdown-item{
     color: white!important;
 }
 
@@ -30,6 +30,6 @@ a.dropdown-item{
     background-color: #0d6efd!important;
 }
 
-img.navbar-brand{
+.navbar-brand{
     width: 1.8rem;
 }
