@@ -42,23 +42,32 @@ body {
 }
 
 #contentGames h2 {
-    color: #0d6efd !important;
+    color: #08fdd8 !important;
+}
+#contentGames h2:hover {
+    color: #ff0b56 !important;
 }
 
 #contentGames div a:hover {
-    background-color: #0d6efd !important;
+    background-color: #08fdd8 !important;
 }
 
 #contentGames div a {
-    background-color: #212529 !important;
+    background-color: #ff0b56 !important;
+    border: 0px;
 
 }
 .fa:hover {
-    color: #0d6efd!important;
+    color: #08fdd8!important;
 }
 #aboutContent h2{
     color: #08fdd8!important;
 }
 #aboutContent h2 span{
     color: #ff0b56!important;
+}
+.gameImg img:hover{
+    box-shadow: 4px 5px 5px 1px #08fdd8;
+    transform: scale(1.01)
+
 }
