@@ -1,35 +1,64 @@
-.navbar{
-    background-color: #212529!important;
+.navbar {
+    background-color: #212529 !important;
 
 }
+
 .nav-link:hover {
-    color: #0d6efd!important;
+    color: #0d6efd !important;
 }
-.modal-header{
+
+.modal-header {
     border-bottom: 0;
-    padding:0;
+    padding: 0;
 }
-.divider{
-    margin:3rem;
+
+.divider {
+    margin: 3rem;
 }
-body{
-    background-color: black!important;
+
+body {
+    background-color: black !important;
 }
-.row p{
+
+.row p {
     color: white;
 }
-.dropdown-menu.show{
-    background-color: black!important;
+
+.dropdown-menu.show {
+    background-color: black !important;
 
 }
-.dropdown-item{
-    color: white!important;
+
+.dropdown-item {
+    color: white !important;
 }
 
 .dropdown-item:focus, .dropdown-item:hover {
-    background-color: #0d6efd!important;
+    background-color: #0d6efd !important;
 }
 
-.navbar-brand{
+.navbar-brand {
     width: 1.8rem;
+}
+
+#contentGames h2 {
+    color: #0d6efd !important;
+}
+
+#contentGames div a:hover {
+    background-color: #0d6efd !important;
+}
+
+#contentGames div a {
+    background-color: #212529 !important;
+
+}
+.fa:hover {
+    color: #0d6efd!important;
+}
+#aboutContent h2{
+    color: #08fdd8!important;
+}
+#aboutContent h2 span{
+    color: #ff0b56!important;
 }
